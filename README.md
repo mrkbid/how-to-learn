@@ -18,4 +18,4 @@
 * Git
 
 ## Посмотреть страницу:
-[Ссылка на Github Pages](https://github.com/mrkbid/how-to-learn)
+[Ссылка на реализованный проект](https://mrkbid.github.io/how-to-learn/)
